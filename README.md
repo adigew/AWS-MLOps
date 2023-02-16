@@ -4,3 +4,5 @@ Practical Data Science on the AWS Cloud
 
 
 Access all courses in the Coursera Practical Data Science Specialization Specialization offered by deeplearning.ai.
+
+![certificate](https://user-images.githubusercontent.com/70149903/219303185-65759ba3-5425-458d-a1bf-c0fbec7f6176.PNG)
