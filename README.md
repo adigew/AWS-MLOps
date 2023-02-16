@@ -1,6 +1,7 @@
 # AWS-MLOps
-Practical Data Science on the AWS Cloud 
+Practical Data Science on the AWS Cloud
 
+https://medium.com/@nesilbor38/mlops-with-aws-sagemaker-9ae1daca06eb
 
 Access all courses in the Coursera Practical Data Science Specialization Specialization offered by deeplearning.ai.
 
